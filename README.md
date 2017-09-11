@@ -1,3 +1,5 @@
+I am new to this whole GitHub thing. First project so look out for more organized and better projects in the future!
+
 # Television Tracker
 
 Python 2.7.13 Script that scrapes IMDB database (API KEY IS REQUIRED), and compares it against an internal database (JSON files within the "data" folder) and returns the list of shows you haven't seen yet.
